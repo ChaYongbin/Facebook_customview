@@ -1,0 +1,66 @@
+int attr twowayview_colSpan 0x7f010004
+int attr twowayview_horizontalDivider 0x7f010001
+int attr twowayview_layoutManager 0x7f010007
+int attr twowayview_numColumns 0x7f010002
+int attr twowayview_numRows 0x7f010003
+int attr twowayview_rowSpan 0x7f010005
+int attr twowayview_span 0x7f010006
+int attr twowayview_verticalDivider 0x7f010000
+int color feed_bg 0x7f040000
+int color feed_item_bg 0x7f040001
+int color feed_item_border 0x7f040002
+int color link 0x7f040003
+int color timestamp 0x7f040004
+int color white 0x7f040005
+int dimen activity_horizontal_margin 0x7f050000
+int dimen activity_vertical_margin 0x7f050001
+int dimen feed_item_border_width 0x7f050002
+int dimen feed_item_corner_radius 0x7f050003
+int dimen feed_item_margin 0x7f050004
+int dimen feed_item_padding_left_right 0x7f050005
+int dimen feed_item_padding_top_bottom 0x7f050006
+int dimen feed_item_profile_info_padd 0x7f050007
+int dimen feed_item_profile_name 0x7f050008
+int dimen feed_item_profile_pic 0x7f050009
+int dimen feed_item_status_pad_left_right 0x7f05000a
+int dimen feed_item_status_pad_top 0x7f05000b
+int dimen feed_item_timestamp 0x7f05000c
+int drawable bg_parent_rounded_corner 0x7f020000
+int drawable ic_launcher 0x7f020001
+int id action_settings 0x7f060009
+int id list 0x7f060002
+int id name 0x7f060004
+int id profilePic 0x7f060003
+int id spannable_grid 0x7f060008
+int id timestamp 0x7f060005
+int id twowayview_item_click_support 0x7f060000
+int id twowayview_item_selection_support 0x7f060001
+int id txtStatusMsg 0x7f060006
+int id txtUrl 0x7f060007
+int layout activity_main 0x7f030000
+int layout feed_item 0x7f030001
+int menu main 0x7f090000
+int string action_settings 0x7f070000
+int string app_name 0x7f070001
+int string hello_world 0x7f070002
+int style AppBaseTheme 0x7f080000
+int style AppTheme 0x7f080001
+int[] styleable twowayview_DividerItemDecoration { 0x01010129, 0x7f010000, 0x7f010001 }
+int styleable twowayview_DividerItemDecoration_android_divider 0
+int styleable twowayview_DividerItemDecoration_twowayview_horizontalDivider 2
+int styleable twowayview_DividerItemDecoration_twowayview_verticalDivider 1
+int[] styleable twowayview_GridLayoutManager { 0x7f010002, 0x7f010003 }
+int styleable twowayview_GridLayoutManager_twowayview_numColumns 0
+int styleable twowayview_GridLayoutManager_twowayview_numRows 1
+int[] styleable twowayview_SpacingItemDecoration { 0x01010114, 0x01010115 }
+int styleable twowayview_SpacingItemDecoration_android_horizontalSpacing 0
+int styleable twowayview_SpacingItemDecoration_android_verticalSpacing 1
+int[] styleable twowayview_SpannableGridViewChild { 0x7f010004, 0x7f010005 }
+int styleable twowayview_SpannableGridViewChild_twowayview_colSpan 0
+int styleable twowayview_SpannableGridViewChild_twowayview_rowSpan 1
+int[] styleable twowayview_StaggeredGridViewChild { 0x7f010006 }
+int styleable twowayview_StaggeredGridViewChild_twowayview_span 0
+int[] styleable twowayview_TwoWayLayoutManager { 0x010100c4 }
+int styleable twowayview_TwoWayLayoutManager_android_orientation 0
+int[] styleable twowayview_TwoWayView { 0x7f010007 }
+int styleable twowayview_TwoWayView_twowayview_layoutManager 0

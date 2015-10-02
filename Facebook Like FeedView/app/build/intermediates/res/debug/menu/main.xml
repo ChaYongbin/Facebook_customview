@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/action_settings"/>
+
+</menu>
+<!-- From: file:/Users/chayongbin/Dropbox/Android%20(1)/Android%20Basic%20(android%20studio)/Facebook%20Like%20FeedView/app/src/main/res/menu/main.xml -->

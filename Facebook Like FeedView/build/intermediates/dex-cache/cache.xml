@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/chayongbin/Dropbox/Android (1)/Android Basic (android studio)/Facebook Like FeedView/app/libs/volley.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="d4aaa36e04ee71a83444f8367c97a46fda662d2c">
+        <dex dex="/Users/chayongbin/Dropbox/Android (1)/Android Basic (android studio)/Facebook Like FeedView/app/build/intermediates/pre-dexed/debug/volley-99a79f4b19f196d8f425e52446b0bc2ed1eb51ea.jar" />
+    </item>
+    <item
+        jar="/Users/chayongbin/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="/Users/chayongbin/Dropbox/Android (1)/Android Basic (android studio)/Facebook Like FeedView/app/build/intermediates/pre-dexed/debug/support-v4-19.1.0-ed8db451f05cd214c49a898b38f4e0561fcbb56c.jar" />
+    </item>
+
+</items>
